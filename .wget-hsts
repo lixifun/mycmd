@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+youtube-dl.org	0	0	1653641533	31536000
+github.com	0	1	1653641534	31536000
