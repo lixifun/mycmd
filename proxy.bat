@@ -1,0 +1,9 @@
+@echo off
+call setproxy
+@echo on
+@echo off
+call %*
+@echo on
+@echo off
+call unsetproxy
+@echo on
