@@ -1,4 +1,4 @@
 @echo off
-mvn -T 1C clean package -DskipTests %*
+mvn clean package -T 8 -DskipTests %*
 @echo on
 pause
